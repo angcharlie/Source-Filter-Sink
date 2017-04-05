@@ -1,0 +1,3 @@
+This program better convert all THE
+Words in this 12234 textfile that are upper to lowercase.....
+IF NOT, THEN WE HAVE AN issue.
